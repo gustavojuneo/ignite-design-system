@@ -1,0 +1,2 @@
+import{A as t}from"./index.321aeb1e.js";import"./index.b3a8dd6a.js";import"./iframe.cd61804f.js";import"./index.4b7cd5e0.js";import"./jsx-runtime.2fcba2b5.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gustavojuneo.png",alt:"Gustavo Juneo"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.1c275ffe.js.map
